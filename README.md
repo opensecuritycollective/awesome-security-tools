@@ -33,6 +33,7 @@ Lista curada de **herramientas de seguridad de código abierto** (y versiones li
 
 ## Severidad y reporte
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI pentest platform; local-model, self-hosted, proves findings with real exploits.
 * [cvss-calculator](https://github.com/opensecuritycollective/cvss-calculator) — CVSS v3.1 (OSC)
 * [vulnera-calc](https://github.com/opensecuritycollective/vulnera-calc) — modelo de 7 ejes (OSC)
 
